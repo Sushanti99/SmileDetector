@@ -14,6 +14,7 @@ Dlib is a general purpose cross-platform software library written in the program
 
 ## Libraries Required
 Imutils, dlib, numpy, opencv
+
 My honest suggestion would be to install dlib using conda  as follows
 ### conda install -c conda-forge dlib=19.4  
  
