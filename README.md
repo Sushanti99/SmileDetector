@@ -10,3 +10,10 @@ Dlib is a general purpose cross-platform software library written in the program
 
 ## Smile count
 ![smile_counter](https://user-images.githubusercontent.com/29730290/58245619-d54f5280-7d72-11e9-99dd-d0046cde38b2.PNG)
+
+
+## Libraries Required
+Imutils, dlib, numpy, opencv
+My honest suggestion would be to install dlib using conda  as follows
+### conda install -c conda-forge dlib=19.4  
+ 
