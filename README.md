@@ -1,4 +1,4 @@
-# SmileDetector
+# Smile Detection
 
 This code uses Python's dlib to detect facial landmarks and count the number of times you smile (A little creepy, I know)
 
